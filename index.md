@@ -10,3 +10,5 @@
 
 
 我完成一级标题到六级的编辑输入，并且完成修改提交
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
